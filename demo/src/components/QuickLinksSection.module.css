@@ -1,0 +1,169 @@
+.proofersOfferA {
+  position: absolute;
+  top: 65px;
+  left: 180px;
+  line-height: 27px;
+  display: inline-block;
+  width: 572.4px;
+  height: 151.3px;
+}
+.home,
+.pricing,
+.quickLinks,
+.services,
+.submitOrdr {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  display: inline-block;
+  width: 64.8px;
+  height: 30.3px;
+}
+.pricing,
+.quickLinks,
+.services,
+.submitOrdr {
+  top: 189.5px;
+  left: 703.2px;
+  width: 130.8px;
+}
+.pricing,
+.quickLinks,
+.services {
+  top: 106.5px;
+  left: 0;
+  width: 90px;
+}
+.pricing,
+.quickLinks {
+  top: 148px;
+  width: 73.2px;
+}
+.quickLinks {
+  top: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 28px;
+  font-weight: 600;
+  width: 177.6px;
+  height: 31.4px;
+}
+.homeParent,
+.subscribeNewsletter {
+  position: absolute;
+  top: 0;
+  left: 703.2px;
+  width: 177.6px;
+  height: 219.7px;
+}
+.subscribeNewsletter {
+  left: 1011.6px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 336px;
+  height: 31.4px;
+}
+.frameChild,
+.frameInner,
+.frameItem,
+.groupIcon,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.1px;
+  height: 45px;
+}
+.frameInner,
+.frameItem,
+.groupIcon,
+.groupParent {
+  left: 68.4px;
+}
+.frameInner,
+.groupIcon,
+.groupParent {
+  left: 136.8px;
+}
+.groupIcon,
+.groupParent {
+  left: 205.2px;
+}
+.groupParent {
+  top: 156.9px;
+  left: 0;
+  width: 253.3px;
+}
+.subscribeNewsletterParent {
+  position: absolute;
+  top: 0;
+  left: 1011.6px;
+  width: 336px;
+  height: 201.9px;
+  font-size: var(--font-size-7xl);
+}
+.proofersOfferAWideVarietyParent {
+  position: absolute;
+  top: 67.8px;
+  left: 180px;
+  width: 1347.6px;
+  height: 219.7px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-poppins);
+}
+.lineDiv {
+  position: absolute;
+  top: 392.4px;
+  left: 179.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1369px;
+  height: 1px;
+}
+.copyright2024,
+.privacyPolicy,
+.trmsCondition {
+  position: absolute;
+  top: 416.5px;
+  left: 1244.4px;
+  font-weight: 500;
+  display: inline-block;
+  width: 121.2px;
+  height: 21.3px;
+}
+.copyright2024,
+.trmsCondition {
+  left: 1399.2px;
+  width: 150px;
+}
+.copyright2024 {
+  width: 343.2px;
+}
+.frameGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  width: 1728px;
+  height: 460.6px;
+}
+.line {
+  position: absolute;
+  top: 419.3px;
+  left: 1381.9px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 16.7px;
+}
+.frameParent {
+  position: absolute;
+  top: 1104px;
+  left: -17px;
+  width: 1728px;
+  height: 460.6px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

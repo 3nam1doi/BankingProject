@@ -1,0 +1,164 @@
+.text {
+  position: absolute;
+  top: 86px;
+  left: 922px;
+  font-size: 24px;
+}
+.logIn {
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.alreadyHaveAnContainer {
+  position: absolute;
+  top: 274px;
+  left: 85px;
+  color: var(--color-gray-100);
+}
+.createAnAccount {
+  position: absolute;
+  top: 212px;
+  left: 86px;
+  font-size: 36px;
+  font-family: var(--font-open-sans);
+  color: #111112;
+}
+.desktop1Child {
+  position: absolute;
+  top: 461px;
+  left: 86px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 554px;
+  height: 74px;
+}
+.desktop1Item,
+.userInterfacehideIcon {
+  position: absolute;
+  top: 482px;
+  left: 595px;
+  width: 24px;
+  height: 24px;
+}
+.desktop1Item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blueviolet);
+  top: 733px;
+  left: 85px;
+  box-shadow: 0 4px 3px rgba(0, 0, 0, 0.25);
+  width: 231px;
+  height: 54px;
+}
+.desktop1Inner {
+  position: absolute;
+  top: 557px;
+  left: 85px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 554px;
+  height: 74px;
+}
+.confirmPassword,
+.div {
+  position: absolute;
+  left: 112px;
+}
+.div {
+  top: 594px;
+  font-weight: 500;
+  color: var(--color-blueviolet);
+}
+.confirmPassword {
+  top: 563px;
+  color: var(--color-gray-200);
+}
+.userInterfacehideIcon1 {
+  position: absolute;
+  top: 585px;
+  left: 597px;
+  width: 24px;
+  height: 24px;
+}
+.desktop1,
+.image39Icon {
+  position: absolute;
+  height: 1024px;
+}
+.image39Icon {
+  top: 0;
+  left: 738px;
+  width: 902px;
+  object-fit: cover;
+}
+.desktop1 {
+  top: 80px;
+  left: 69px;
+  background-color: var(--color-white);
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  width: 1642px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.password {
+  position: absolute;
+  top: 549px;
+  left: 185px;
+  color: var(--color-gray-200);
+}
+.temsOfUse {
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.byCreatingAnContainer,
+.orLoginWith {
+  position: absolute;
+  top: 740px;
+  left: 158px;
+  color: var(--color-gray-200);
+}
+.orLoginWith {
+  top: 929px;
+  left: 154px;
+}
+.facebook,
+.google,
+.linkedin {
+  position: absolute;
+  top: 929px;
+  left: 330px;
+}
+.google,
+.linkedin {
+  left: 484px;
+}
+.google {
+  left: 627px;
+}
+.createAnAccount1 {
+  position: absolute;
+  top: 827px;
+  left: 196px;
+  color: var(--color-white);
+}
+.div1 {
+  position: absolute;
+  top: 578px;
+  left: 185px;
+  font-weight: 500;
+}
+.signUp {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1565px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-blueviolet);
+  font-family: var(--font-roboto);
+}

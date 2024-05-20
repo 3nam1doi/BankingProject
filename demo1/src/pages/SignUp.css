@@ -1,0 +1,164 @@
+.text {
+  position: absolute;
+  top: 86px;
+  left: 922px;
+  font-size: 24px;
+}
+.log-in {
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.already-have-an-container {
+  position: absolute;
+  top: 274px;
+  left: 85px;
+  color: var(--color-gray-100);
+}
+.create-an-account {
+  position: absolute;
+  top: 212px;
+  left: 86px;
+  font-size: 36px;
+  font-family: var(--font-open-sans);
+  color: #111112;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 461px;
+  left: 86px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 554px;
+  height: 74px;
+}
+.desktop-1-item,
+.user-interfacehide-icon {
+  position: absolute;
+  top: 482px;
+  left: 595px;
+  width: 24px;
+  height: 24px;
+}
+.desktop-1-item {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-blueviolet);
+  top: 733px;
+  left: 85px;
+  box-shadow: 0 4px 3px rgba(0, 0, 0, 0.25);
+  width: 231px;
+  height: 54px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 557px;
+  left: 85px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 554px;
+  height: 74px;
+}
+.confirm-password,
+.div {
+  position: absolute;
+  left: 112px;
+}
+.div {
+  top: 594px;
+  font-weight: 500;
+  color: var(--color-blueviolet);
+}
+.confirm-password {
+  top: 563px;
+  color: var(--color-gray-200);
+}
+.user-interfacehide-icon1 {
+  position: absolute;
+  top: 585px;
+  left: 597px;
+  width: 24px;
+  height: 24px;
+}
+.desktop-1,
+.image-39-icon {
+  position: absolute;
+  height: 1024px;
+}
+.image-39-icon {
+  top: 0;
+  left: 738px;
+  width: 902px;
+  object-fit: cover;
+}
+.desktop-1 {
+  top: 80px;
+  left: 69px;
+  background-color: var(--color-white);
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  width: 1642px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.password {
+  position: absolute;
+  top: 549px;
+  left: 185px;
+  color: var(--color-gray-200);
+}
+.tems-of-use {
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.by-creating-an-container,
+.or-login-with {
+  position: absolute;
+  top: 740px;
+  left: 158px;
+  color: var(--color-gray-200);
+}
+.or-login-with {
+  top: 929px;
+  left: 154px;
+}
+.facebook,
+.google,
+.linkedin {
+  position: absolute;
+  top: 929px;
+  left: 330px;
+}
+.google,
+.linkedin {
+  left: 484px;
+}
+.google {
+  left: 627px;
+}
+.create-an-account1 {
+  position: absolute;
+  top: 827px;
+  left: 196px;
+  color: var(--color-white);
+}
+.div1 {
+  position: absolute;
+  top: 578px;
+  left: 185px;
+  font-weight: 500;
+}
+.sign-up {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1565px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-blueviolet);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,63 @@
+.explore1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  font-weight: 500;
+}
+.explore {
+  width: 72px;
+  position: relative;
+  height: 30px;
+}
+.help-centre {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+.items {
+  position: absolute;
+  top: calc(50% - 16px);
+  right: 515px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--spacing-m);
+}
+.logo,
+.navigation {
+  position: absolute;
+  top: 0;
+}
+.navigation {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  height: 80px;
+  overflow: hidden;
+}
+.logo {
+  text-decoration: none;
+  left: 124px;
+  width: 161px;
+  height: 74px;
+  background-image: url(/public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.navigation-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1709px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--body-text-size);
+  color: var(--color-black);
+  font-family: var(--body-text);
+}
